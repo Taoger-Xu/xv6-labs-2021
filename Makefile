@@ -195,6 +195,7 @@ UPROGS=\
 	$U/_zombie\
 	$U/_hello\
 	$U/_sleep\
+	$U/_pingpong\
 
 
 
